@@ -1,0 +1,56 @@
+
+body { 
+    background-color: #F9E4D4
+}
+
+hr {
+border-style: none;
+border-top: dotted;
+background-color: none;
+
+border-color: #D67D3E;
+border-width: 5px;
+height: 5px; 
+width: 5%;
+}
+
+h1 {
+   color: #9C0F48;
+font-family: Georgia, serif;
+}
+
+h3 {
+    color: #9C0F48;
+    font-family: Georgia, serif;
+    font-optical-sizing: auto;
+ }
+
+ p {
+    color: #9C0F48;
+    font-family: Georgia, serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+ }
+
+ label {
+    color: #9C0F48;
+    font-family: Georgia, serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+
+ }
+
+ table {
+
+    color: #9C0F48;
+    font-family: Georgia, serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+ }
+
+ ul {
+    color: #9C0F48;
+    font-family: Georgia, serif;
+    font-style: normal;
+    font-optical-sizing: auto;
+ }
